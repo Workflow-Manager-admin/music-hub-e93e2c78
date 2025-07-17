@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/music-hub-e93e2c78/music_app_frontend"
+}
